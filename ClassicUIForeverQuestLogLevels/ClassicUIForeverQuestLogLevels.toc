@@ -1,0 +1,9 @@
+## Interface: 16001, 120100
+## Title: ClassicUI Forever - Quest Log Levels
+## Author: endrain
+## Notes: Adds quest levels to ClassicUI Forever's classic quest log.
+## Version: 0.2.0
+## Category: UI
+## IconTexture: Interface\QuestFrame\UI-QuestLog-BookIcon
+
+ClassicUIForeverQuestLogLevels.lua
